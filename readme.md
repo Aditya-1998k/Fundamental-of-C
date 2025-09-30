@@ -48,6 +48,7 @@ Now let's understand the program:
 5. First line of program `#include <stdio.h>` tells compiler to include information about standard
 input/output library.
 <img width="692" height="274" alt="image" src="https://github.com/user-attachments/assets/0c6086d9-86b6-4c47-9c0a-d85d2e8821e7" />
+
 6. Statement of function are enclosed in `braces {}`. The function main() contains only one statements.
 7. `printf("hello, world\n");` A function is called by naming it with argument. Here we are calling `printf` function.
 8. Argument of printf is ***"Hello World\n"* which is a sequence of character withing double quotes. It is called character string or string constant.
