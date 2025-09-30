@@ -1,6 +1,6 @@
 Table of contents:
 1. [Chapter 1: Introduction](#chapter-1-introduction)
-2. [CHAPTER 2: Types, Operators, and Expressions](#chapter-2-types-operators-and-expression) 
+2. [Chapter 2: Types, Operators, and Expressions](#chapter-2-types-operators-and-expressions) 
 
 ## Chapter 1: Introduction
 
@@ -70,4 +70,4 @@ hello.c:5:28: warning: unknown escape sequence: '\c'
     5 |     printf("hello, world\c");
 ```
 
-## CHAPTER 2: Types, Operators, and Expressions
+## Chapter 2: Types, Operators, and Expressions
